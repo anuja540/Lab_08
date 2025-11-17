@@ -1,0 +1,12 @@
+body {
+  background: #eef5ea;
+}
+
+.list-group-item.active {
+  background-color: #2a7c4f !important;
+  border-color: #2a7c4f !important;
+}
+
+.card h4 small {
+  font-size: 0.8rem;
+}
